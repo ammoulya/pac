@@ -40,7 +40,7 @@
        <archive>
        <manifest>
        <addClasspath>true</addClasspath>
-       <minClass>com.example.App</mainClass>
+       <mainClass>com.example.App</mainClass>
        </manifest>
        </archive>
        </configuration>
